@@ -28,7 +28,7 @@ Build.scala:
 Scala:
 
     import com.mariussoutier.play._
-    object Global extends GlobalSettings with TrailingSlashSettings
+    object Global extends GlobalSettings with TrailingSlash
 
 
 Java:
